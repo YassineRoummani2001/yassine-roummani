@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yassine Roummani</h1>
-### 💻 Full-Stack Developer | React & Next.js Enthusiast | Tech Content Creator  
+<h3 align="center">💻 Full-Stack Developer | React & Next.js Enthusiast | Tech Content Creator</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=FullStack+Dev+%7C+React+Enthusiast;" alt="Typing SVG""/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%26+Next.js+Lover;Building+Clean+UIs+%26+Modern+Web+Apps;Always+Learning+New+Things+🚀" alt="Typing SVG"/>
 </div>
 
 ---
@@ -11,7 +11,8 @@
 - 💻 Passionate about building **modern full-stack applications** with **React**, **Next.js**, **JavaScript**, and **PHP**.  
 - 🧠 Always learning, experimenting, and sharing what I discover.  
 - 🛠️ Focused on **developer experience**, **clean UI**, and **high performance** web apps.  
-- 🎯 Currently exploring **TypeScript**, **Node.js**, and **API design**.
+- 🎯 Currently exploring **JavaScript**, **Node.js**, and **API design**.  
+- 🌱 I believe in writing **readable, scalable, and maintainable** code.  
 
 ---
 
@@ -25,6 +26,27 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## ⚙️ Tools & Workflow  
+
+- 🧩 **Component-based architecture** for scalable UIs  
+- 🔁 **Agile** and **Clean Code** principles  
+- 🚀 **Version control** with Git & GitHub  
+- 🧱 **Responsive Design** with TailwindCSS  
+- ☁️ **API Integration** & RESTful design  
+- 🧠 **Continuous learning mindset**  
+
+---
+
+## 🪄 Featured Projects  
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🎮 **GameHub** | Platform for indie game discovery | React, Node.js, Tailwind |
+| 💼 **Portfolio 2.0** | My personal responsive portfolio website | Next.js, Tailwind |
+| 🧾 **Task Manager App** | Simple CRUD app for daily productivity | React, PHP, MySQL |
 
 ---
 
