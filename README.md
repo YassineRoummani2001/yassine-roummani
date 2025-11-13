@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Yassine Roummani **  
+<h1 align="center">Hi 👋, I'm Yassine Roummani</h1>
 ### 💻 Full-Stack Developer | React & Next.js Enthusiast | Tech Content Creator  
 
 <div align="center">
