@@ -2,7 +2,7 @@
 ### 💻 Full-Stack Developer | React & Next.js Enthusiast | Tech Content Creator  
 
 <div align="center">
-  <img src="![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Fullstack+Dev+%7C+React+Enthusiast;Building+Clean+UIs+%26+Great+Developer+Experience "Typing SVG")
+  <img src="(https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Fullstack+Dev+%7C+React+Enthusiast;Building+Clean+UIs+%26+Great+Developer+Experience "Typing SVG")
 "/>
 </div>
 
